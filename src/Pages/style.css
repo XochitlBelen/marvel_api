@@ -1,0 +1,13 @@
+#buttonAddNew2{
+    background-color: darkgray;
+    margin-right: 30px;
+    min-height: 40px;
+    font-size: larger;
+    border-radius: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+#buttonAddNew2:hover{
+    background-color:aliceblue;
+}
