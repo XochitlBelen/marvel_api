@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import Personajes from './Pages/Personajes';
 import Comics from './Pages/Comics';
